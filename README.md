@@ -24,7 +24,15 @@
 
 ## 🏆 **GITHUB TROPHY**
 
-![](https://github-profile-trophy.vercel.app/?username=optimizershivam&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB )
+<!-- ![](https://github-profile-trophy.vercel.app/?username=optimizershivam&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB ) -->
+
+<p align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=optimizershivam&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB" alt="shubham0709" /></a>
+</p>
+
+
+ 
+
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=optimizershivam&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="shivam" height="139" />
