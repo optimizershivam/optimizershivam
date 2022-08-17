@@ -13,7 +13,9 @@
 
 • 🔭 I’m constantly working on <b>learning new skills!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
-• 💬 Ask me about <b>Full Stack</b>.<br/>
+• 💬 Ask me about <b>HTML, CSS, JAVASCRIPT & MERN STACK</b>.<br/>
+• 👨‍💻 Visit My <b>Portfolio</b> here [Portfolio](https://shivam-sharma-portfolio.vercel.app/)<br/>
+• 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GqfwxLIVw_Gv7N-YIRaRPvUrfD-hBVJt/view?usp=sharing)<br/>
 • 📫 Reach me out <a href="https://www.linkedin.com/in/itsurshivam"><b>Shivam Sharma</b></a><br/>
     
 </span>
@@ -24,7 +26,7 @@
 
 ## 🏆 **GITHUB TROPHY**
 
-![](https://github-profile-trophy.vercel.app/?username=optimizershivam&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+![](https://github-profile-trophy.vercel.app/?username=optimizershivam&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB )
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=optimizershivam&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="shivam" height="139" />
