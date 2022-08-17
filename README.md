@@ -18,9 +18,7 @@
 • 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GqfwxLIVw_Gv7N-YIRaRPvUrfD-hBVJt/view?usp=sharing)<br/>
 • 📫 Reach me out <a href="https://www.linkedin.com/in/itsurshivam"><b>Shivam Sharma</b></a><br/>
     
-</span>
-
-
+<!-- </span> -->
 <br />
 <br />
 
